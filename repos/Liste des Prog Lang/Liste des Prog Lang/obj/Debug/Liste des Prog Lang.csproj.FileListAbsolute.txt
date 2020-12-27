@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\bin\Debug\Liste des Prog Lang.exe.config
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\bin\Debug\Liste des Prog Lang.exe
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\bin\Debug\Liste des Prog Lang.pdb
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste des Prog Lang.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste_des_Prog_Lang.Form1.resources
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste_des_Prog_Lang.Properties.Resources.resources
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste des Prog Lang.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste des Prog Lang.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste des Prog Lang.exe
+C:\Users\Hp\source\repos\Liste des Prog Lang\Liste des Prog Lang\obj\Debug\Liste des Prog Lang.pdb

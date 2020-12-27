@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\bin\Debug\formulaire multipage.exe.config
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\bin\Debug\formulaire multipage.exe
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\bin\Debug\formulaire multipage.pdb
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire multipage.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire_multipage.Form1.resources
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire_multipage.Properties.Resources.resources
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire multipage.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire multipage.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire multipage.exe
+C:\Users\Hp\source\repos\formulaire multipage\formulaire multipage\obj\Debug\formulaire multipage.pdb

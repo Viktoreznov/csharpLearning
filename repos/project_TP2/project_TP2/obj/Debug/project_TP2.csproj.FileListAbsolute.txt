@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\project_TP2\project_TP2\bin\Debug\project_TP2.exe.config
+C:\Users\Hp\source\repos\project_TP2\project_TP2\bin\Debug\project_TP2.exe
+C:\Users\Hp\source\repos\project_TP2\project_TP2\bin\Debug\project_TP2.pdb
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.Form1.resources
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.Properties.Resources.resources
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.exe
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.pdb
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.factorial.resources
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.game.resources
+C:\Users\Hp\source\repos\project_TP2\project_TP2\obj\Debug\project_TP2.table.resources

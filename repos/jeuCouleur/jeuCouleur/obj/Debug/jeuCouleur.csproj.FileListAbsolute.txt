@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\bin\Debug\jeuCouleur.exe.config
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\bin\Debug\jeuCouleur.exe
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\bin\Debug\jeuCouleur.pdb
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.Form1.resources
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.Properties.Resources.resources
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.exe
+C:\Users\Hp\source\repos\jeuCouleur\jeuCouleur\obj\Debug\jeuCouleur.pdb

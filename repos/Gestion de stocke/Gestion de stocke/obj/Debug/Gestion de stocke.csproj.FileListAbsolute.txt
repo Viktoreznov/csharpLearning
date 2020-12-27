@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\bin\Debug\Gestion de stocke.exe.config
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\bin\Debug\Gestion de stocke.exe
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\bin\Debug\Gestion de stocke.pdb
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion de stocke.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion_de_stocke.Form1.resources
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion_de_stocke.Properties.Resources.resources
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion de stocke.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion de stocke.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion de stocke.exe
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion de stocke.pdb
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion_de_stocke.frmAddClients.resources
+C:\Users\Hp\source\repos\Gestion de stocke\Gestion de stocke\obj\Debug\Gestion_de_stocke.frmListClients.resources

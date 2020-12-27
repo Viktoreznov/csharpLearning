@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\bin\Debug\connexion a la base de donne.exe.config
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\bin\Debug\connexion a la base de donne.exe
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\bin\Debug\connexion a la base de donne.pdb
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion a la base de donne.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion_a_la_base_de_donne.Form1.resources
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion_a_la_base_de_donne.Properties.Resources.resources
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion a la base de donne.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion a la base de donne.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion a la base de donne.exe
+C:\Users\Hp\source\repos\connexion a la base de donne\connexion a la base de donne\obj\Debug\connexion a la base de donne.pdb

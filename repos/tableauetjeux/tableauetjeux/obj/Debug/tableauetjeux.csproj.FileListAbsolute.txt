@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\bin\Debug\tableauetjeux.exe.config
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\bin\Debug\tableauetjeux.exe
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\bin\Debug\tableauetjeux.pdb
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.Form1.resources
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.Properties.Resources.resources
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.exe
+C:\Users\Hp\source\repos\tableauetjeux\tableauetjeux\obj\Debug\tableauetjeux.pdb

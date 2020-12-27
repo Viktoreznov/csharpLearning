@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\billetTrain\billetTrain\bin\Debug\billetTrain.exe.config
+C:\Users\Hp\source\repos\billetTrain\billetTrain\bin\Debug\billetTrain.exe
+C:\Users\Hp\source\repos\billetTrain\billetTrain\bin\Debug\billetTrain.pdb
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.Form1.resources
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.Properties.Resources.resources
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.exe
+C:\Users\Hp\source\repos\billetTrain\billetTrain\obj\Debug\billetTrain.pdb

@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.About.resources
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Bienvenu.resources
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Hp\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculator.resources
